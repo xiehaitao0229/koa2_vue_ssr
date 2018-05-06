@@ -1,5 +1,6 @@
 # koa2_vue_ssr
->这个项目是基于koa2+webpack4+vue+vuex，对vue进行服务端渲染的搭建demo，解决了vue做spa的时候对SEO不友好的问题
+>这个项目是基于koa2+webpack4+vue+vuex，对vue进行服务端渲染的搭建demo，解决了vue做spa的时候对SEO不友好的问题，
+>如果想了解直接对swig模板渲染的脚手架的话，可以看我之前写的脚手架项目https://github.com/xiehaitao0229/koa2-webpack4-gulp-awilix
 
 ####开发中用到的相应的插件
 > * koa ：Koa -- 基于 Node.js 平台的下一代 web 开发框架
